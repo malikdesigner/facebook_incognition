@@ -1,0 +1,24 @@
+{
+  "name": "facebook_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "chromedriver": "^129.0.1",
+    "fs": "^0.0.1-security",
+    "jsonfile": "^6.1.0",
+    "path": "^0.12.7",
+    "punycode": "^2.3.1",
+    "puppeteer": "^23.4.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "request-promise": "^4.2.6",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
